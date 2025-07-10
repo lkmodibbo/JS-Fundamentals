@@ -1,4 +1,4 @@
-const firstArgument = ProcessingInstruction.argv[2];
+const firstArgument = process.argv[2];
 
 if (firstArgument === undefined){
     console.log('No argument')
