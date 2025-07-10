@@ -1,7 +1,7 @@
 const messages = [
     "C is fun",
     "Python is cool",
-    "JavaScript is amazig"
+    "JavaScript is amazing"
 ]
 let outputString = "";
 
